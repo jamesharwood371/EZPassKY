@@ -1,0 +1,24 @@
+
+---
+```json
+{
+  "name": "e-zpassky",
+  "version": "1.0.0",
+  "description": "E-ZPassKY project for toll tracking and management",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.1.0"
+  },
+  "devDependencies": {},
+  "author": "Your A/C Name",
+  "license": "MIT"
+}
