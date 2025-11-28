@@ -28,6 +28,6 @@ With E-ZPassKY, users can:
 ## Author
 - **Name:** James Harwood
 - **Email:** jamesharwood371@outlook.com
-- **Website:** 
+- **Website:** [E-ZPassKY](https://www.e-zpassKY.com)
 - **Bio:** A passionate developer with a love for solving real-world problems through technology. Master in JavaScript and React, with experience building user-centric applications. Dedicated to helping others with their projects and contributing to the open-source community.
 
